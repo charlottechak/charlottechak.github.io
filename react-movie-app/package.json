@@ -1,10 +1,9 @@
 {
-  "homepage": "https://charlottechak.github.io/movie-app",
+  "homepage": "https://charlottechak.github.io/react-movie-app",
   "name": "react-movie-app",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://charlottechak.github.io/main",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
